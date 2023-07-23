@@ -6,8 +6,6 @@ a+b
 a-b
 #sub of number
 #division
-<<<<<<< HEAD
 #this is a change
-=======
 #Multiplication
->>>>>>> mergeexample
+#mergeexample
